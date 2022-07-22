@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.062 s <<< FAILURE! - in runner.TestRunner
+Add and Remove a Mac book from Cart(Laptop & Notebooks)  Time elapsed: 2.473 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.isDisplayed()" because "this.clickeOnTestEnvironment" is null
+
